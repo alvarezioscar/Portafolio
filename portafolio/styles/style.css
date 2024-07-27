@@ -49,7 +49,7 @@ body{
 }
 
 .presentacion__contenido{
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -66,8 +66,9 @@ body{
 }
 
 .presentacion__contenido__texto{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family: var(--fuente-montserrat);
+    text-align: justify;
 }
 .presentacion__contenido__lista{
     padding-left: 10%;
